@@ -12229,6 +12229,7 @@ __metadata:
     react-native-screens: ^3.18.2
     react-native-vector-icons: ^9.2.0
     react-test-renderer: 18.2.0
+    super-app-showcase-sdk: "workspace:^"
     terser-webpack-plugin: ^5.3.6
     typescript: 4.8.4
     webpack: ^5.74.0
